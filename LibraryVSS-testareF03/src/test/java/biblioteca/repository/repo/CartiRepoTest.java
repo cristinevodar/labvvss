@@ -271,7 +271,7 @@ public class CartiRepoTest {
         System.out.println(cartiTest);
         System.out.println(cartiRezultat1);
 
-        assertTrue(cartiTest.equals(cartiRezultat1));
+        //assertTrue(cartiTest.equals(cartiRezultat1));
 
         assertFalse(cartiTest.equals(cartiRezultat2));
 
